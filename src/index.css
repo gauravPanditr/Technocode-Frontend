@@ -15,3 +15,39 @@
     }
     
   }
+  .problem-description {
+    padding: 16px;
+    line-height: 1.6;
+    max-width: 800px; /* Set a maximum width for better readability */
+    word-wrap: break-word; /* Ensure long words break onto the next line */
+}
+
+.example {
+    margin-bottom: 24px;
+}
+
+.example h2 {
+    margin-bottom: 12px;
+}
+
+.example p {
+    margin-bottom: 8px;
+}
+
+.list-disc {
+    margin-left: 20px;
+}
+
+.editor-container {
+    border-top: 1px solid #ddd;
+    margin-bottom: 24px;
+}
+
+.console-output {
+    border-top: 1px solid #ddd;
+    margin-bottom: 24px;
+}
+
+.submission-status {
+    border-top: 1px solid #ddd;
+}

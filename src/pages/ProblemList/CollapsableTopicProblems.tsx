@@ -1,4 +1,4 @@
-import { ProblemData } from "../../types/problem.types";
+/*import { ProblemData } from "../../types/problem.types";
 
 
 
@@ -21,4 +21,4 @@ function CollapsableTopicProblem({topicName, problems}: {topicName: string, prob
     )
 }
 
-export default CollapsableTopicProblem;
+export default CollapsableTopicProblem;*/
